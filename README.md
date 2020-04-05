@@ -1,2 +1,5 @@
 # CodingBatSolutions
-My solutions to the CodingBat problems
+My solutions to the CodingBat problems.
+
+Keep in mind I am not a computer science student:
+These solutions may contain bad coding practices.
