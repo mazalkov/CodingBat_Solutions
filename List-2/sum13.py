@@ -3,8 +3,7 @@
 
 def sum13(nums):
   
-  i = 0
-  sum = 0
+  i, sum = 0, 0
   
   while i < len(nums):
     if nums[i] == 13:
